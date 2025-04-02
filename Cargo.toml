@@ -5,7 +5,7 @@ authors = ["Rudolf Kolbe <rkolbe96@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-pyo3 = { version = "0.16.5", features = ["extension-module"] }
+pyo3 = { version = "0.24.1", features = ["extension-module"] }
 radx = { git = "https://github.com/Isaac-Lozano/radx" }
 hound = "3.3.0"
 
